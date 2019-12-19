@@ -1,0 +1,2 @@
+serverA.py is the final version for pyhon2.7
+serverA2W.py is the final version for python3.0 and also for the Windows deploy
